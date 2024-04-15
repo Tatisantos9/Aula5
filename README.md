@@ -13,7 +13,7 @@ h:altura
 
 Quadrado
 
-$A$=$L²$
+$A=L²$
 
 A:área 
 
