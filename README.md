@@ -56,3 +56,4 @@ $\pi$:constante  Pi(3.14)
 r:raio 
 
 ax²+bx+c=O
+
